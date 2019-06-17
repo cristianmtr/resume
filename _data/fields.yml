@@ -1,0 +1,15 @@
+- name: Machine Learning
+  percentage: 80
+  color: danger
+
+- name: Backend dev.
+  percentage: 70
+  color: success
+
+- name: SysAdmin
+  percentage: 60
+  color: info
+
+- name: Frontend
+  percentage: 45
+  color: dark

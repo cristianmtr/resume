@@ -1,0 +1,19 @@
+- name: Python
+  percentage: 90
+  color: dark
+
+- name: TypeScript
+  percentage: 70
+  color: info
+
+- name: Linux
+  percentage: 60
+  color: blue
+
+- name: SQL
+  percentage: 40
+  color: success
+
+- name: Java
+  percentage: 30
+  color: danger
