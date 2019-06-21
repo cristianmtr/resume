@@ -11,6 +11,14 @@ Master thesis project at M. Sc. IT & Cognition, University of Copenhagen.
 
 June, 2019.
 
+The **goal** of the project is to investigate how (1) datasets and (2) sequential learning mechanisms affect learning in a symbolic music generation task.
+
+**Highlights** of the project:
+
+1. datasets containing a wide variety of styles are more difficult to learn from. From my experiments, I think this is because of the limited transfer learning capability between music genres (e.g. pop music is inherently different from classical)
+2. a model with a bidirectional LSTM outperforms a unidirectional LSTM model of the same number of parameters. This is because, in music, both positive and negative time direction contexts are of great use. Composers usually plan a melody with a known endpoint in mind.
+3. a model trained on a heterogenous dataset is more likely to simply reproduce (plagiarize) elements from the training set. Again, as in point (1), this is because the model fails to converge to a point where it can re-combine patterns from the music in new, original ways. 
+
 Abstract:
 
 ```
@@ -38,18 +46,15 @@ In my master thesis I set to investigate two main hypotheses areas:
 
 1. how does the dataset of music used to train the model affect its learning capabilities?
    
-   Sub-questions:
-   1. distribution of styles and genres within a dataset 
-   2. dataset encoding format
+   1. How does the distribution of styles and genres within a dataset affect learning?
+   2. How does the dataset encoding format affect learning?
 
 2. how do mechanism for sequential, temporal learning affect the model?
 
-    Sub-questions:
     1. how does the attention mechanism affect learning?
     2. how does the bidirectional wrapper for the LSTM affect learning?
 
-### Evaluation
-
+In addressing each of these questions I devise experimental setups where I change one variable (the model either includes an attention mechanism or it doesn't) and observe the dependent variable (the _quality_ of the results).
 
 ### Architecture
 
@@ -60,5 +65,18 @@ The problem we are solving is a supervised, sequential learning problem, with a 
 See below figure for architecture of system:
 
 ![architecture](https://github.com/cristianmtr/master_thesis_symbolic_music_generation/blob/master/arch.PNG?raw=true)
+
+### Evaluation
+
+Since music is such a subjective topic, evaluating the _success_ of a model is very complex.
+
+Based on literature and musical theory, I devise four main approaches:
+
+1. Quantitative:
+   1. I compare the generated samples from the model with the ones from the training sets, using 10 domain-based statistical features (nr. of notes per pitch class, avg. interval between notes etc.). I use KL Divergence and Area of Overlap as statistical measures.
+   2. I employ a state of the art melodic plagiarism detection algorithm in order to obtain a metric of how much of the generated samples are simply reproductions. This is still a grey area in AI for the creative industries, where the matter of copyright and intellectual property is still to be settled. My efforts are part of this ongoing discussion.
+2. Qualitative:
+   1. I conduct a user study where I ask users to rate musical snippets on a 1-5 scale. I mix 10 random samples from the training set and 10 samples from the generated samples. 
+   2. I use the model as it is envisioned  to be used, i.e. to assist musicians in generating new ideas. I then perform a subjective evaluation of the results from each of the experiments.
 
 
