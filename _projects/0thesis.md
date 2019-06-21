@@ -17,7 +17,9 @@ The **goal** of the project is to investigate how (1) datasets and (2) sequentia
 
 1. datasets containing a wide variety of styles are more difficult to learn from. From my experiments, I think this is because of the limited transfer learning capability between music genres (e.g. pop music is inherently different from classical)
 2. a model with a bidirectional LSTM outperforms a unidirectional LSTM model of the same number of parameters. This is because, in music, both positive and negative time direction contexts are of great use. Composers usually plan a melody with a known endpoint in mind.
-3. a model trained on a heterogenous dataset is more likely to simply reproduce (plagiarize) elements from the training set. Again, as in point (1), this is because the model fails to converge to a point where it can re-combine patterns from the music in new, original ways. 
+3. a model trained on a heterogenous dataset is more likely to simply reproduce (plagiarize) elements from the training set. Again, as in point (1), this is because the model fails to converge to a point where it can re-combine patterns from the music in new, original ways.
+4. the attention mechanism can guide the model to produce more structurally coherent pieces.
+5. the model trained on the music encoded in [_melody_](https://magenta.tensorflow.org/2016/07/15/lookback-rnn-attention-rnn) is better at producing more pleasing melodies than the model trained on the _pianoroll_ encoding format.  
 
 Abstract:
 
@@ -42,15 +44,12 @@ Paper available [here](https://github.com/cristianmtr/master_thesis_symbolic_mus
 
 ## Details
 
-In my master thesis I set to investigate two main hypotheses areas:
+In my master thesis I set to investigate two main hypothesis areas:
 
 1. how does the dataset of music used to train the model affect its learning capabilities?
-   
    1. How does the distribution of styles and genres within a dataset affect learning?
    2. How does the dataset encoding format affect learning?
-
-2. how do mechanism for sequential, temporal learning affect the model?
-
+2. how do mechanisms for sequential, temporal learning affect the model?
     1. how does the attention mechanism affect learning?
     2. how does the bidirectional wrapper for the LSTM affect learning?
 
