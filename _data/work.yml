@@ -4,12 +4,6 @@
   description: Enhanced art projects with Machine Learning, in music and visuals. Oversaw software side of artist’s projects, requirements gathering, research, implementation, debugging. Built musical instrument to be used in art performances, using Machine Learning, Arduino, and sensors (Max for Live, C++, Python).
 
 
-- title: M. Sc. IT & Cognition, University of Copenhagen
-  from: 2017
-  to: 2019
-  description: Obtained a wide range of knowledge across multiple topics in ML (Data Science, Cognitive Science, NLP, Computer Vision). Developed multiple projects, in groups and individually. Implemented learning algorithms using only linear algebra libraries (Numpy). Mastered theoretical foundations in Machine Learning. Delivered master thesis in symbolic music generation using recurrent networks.
-
-
 - title: Teaching Assistant, University of Copenhagen
   from: 2018, September
   to: 2019, January
@@ -21,11 +15,4 @@
   from: 2014
   to: 2018
   description: Developed new features and functionality across our modern web client, frontend (Angular, Typescript) and backend (Java). Maintained and configured servers (Linux, Windows, RHEL, Solaris). Debugged errors related to installation and configuration, in close collaboration with developers. Re-wrote the build and deployment tools for the Continuous Integration system, using Python and Jenkins, achieving a more streamlined process. Created an automation framework for an existing manual process, in Python.
-
-
-
-- title: B. Sc. Web Development & IT Engineering, KEA, Denmark
-  from: 2014
-  to: 2017
-  description: Acquired knowledge and practical skills in a wide range of topics related to Web Development and IT (Networking, Backend development, Security, and Relational Databases). Developed projects using many tools and languages (Python, C#, PHP, Javascript, Go, SQL, thus being able to learn and get acquainted fairly easily to any new languages or tools).
 
