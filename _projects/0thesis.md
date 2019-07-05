@@ -1,7 +1,7 @@
 ---
 name: Symbolic Music Generation using Recurrent Neural Networks
 tools: [Deep Learning, Music generation, LSTM, Attention mechanism, master thesis]
-image: https://github.com/cristianmtr/master_thesis_symbolic_music_generation/blob/master/thesis_examples.png?raw=true
+image: https://i.imgur.com/nWbwtek_d.jpg
 description: The project aims to investigate symbolic music generation using LSTMs. Experiments in dataset encoding, dataset stylistic homogeneity, attention mechanism, and bidirectionality.
 ---
 
