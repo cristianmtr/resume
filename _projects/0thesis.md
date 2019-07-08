@@ -86,7 +86,7 @@ You can hear the musical piece I wrote for the subjective analysis, along with s
     <figcaption>Original composition (seed sequence):</figcaption>
     <audio
         controls
-        src="assets/subjective/original.wav">
+        src="https://github.com/cristianmtr/resume/raw/master/assets/subjective/original.wav">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -96,7 +96,7 @@ You can hear the musical piece I wrote for the subjective analysis, along with s
     <figcaption>Attention Model Sequence 1:</figcaption>
     <audio
         controls
-        src="assets/subjective/ex3/att 1.wav">
+        src="https://github.com/cristianmtr/resume/raw/master/assets/subjective/ex3/att 1.wav">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -106,7 +106,7 @@ You can hear the musical piece I wrote for the subjective analysis, along with s
     <figcaption>Bidirectional model, sequence 2:</figcaption>
     <audio
         controls
-        src="assets/subjective/ex4/ex4 bi 2.wav">
+        src="https://github.com/cristianmtr/resume/raw/master/assets/subjective/ex4/ex4 bi 2.wav">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
