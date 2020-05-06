@@ -1,25 +1,24 @@
 - title: Machine Learning Engineer, Alpaca GmbH
   from: 2019, August
   to: present
-  description: Automated searching for housing with state of the art technology in the field of conversational agents and AI; Extracting and analyzing data from chatbot conversations with users, in order to quantify business achievements; Implemented business logic in backend; Improved collaboration processes for technology team, to enhance cross-team knowledge sharing
-
+  description: What I work with<br>+ Python<br>+ Rasa<br>+ NLP<br>+ PostgreSQL<br>+ Machine Learning<br>+ Docker<br>+ ElasticBeanstalk<br><br>What I work on<br>+ Automated qualification process of prospective renters, using a conversational AI agent;<br>+ Quantified business achievements, by extracting and analyzing data from chatbot conversations with users;<br>+ Optimized chatbot understanding of human text, by analyzing and annotating dataset of conversations;<br>+ Implementation of business logic in backend;<br>+ Improved collaboration processes for technology team, to enhance cross-team knowledge sharing;<br>+ Scaling of business infrastructure with AWS Elastic Beanstalk and Docker;
 
 
 - title: Collaborator (Machine Learning Engineer), La Kriss Kross
   from: 2017, February
   to: 2019, February
-  description: Enhanced art projects with Machine Learning, in music and visuals. Oversaw software side of artist’s projects, requirements gathering, research, implementation, debugging. Built musical instrument to be used in art performances, using Machine Learning, Arduino, and sensors (Max for Live, C++, Python).
+  description: What I worked with<br>+ Python<br>+ Keras/Tensorflow<br>+ C++<br>+ Arduino<br>+ Max for Live<br>+ synthesizers<br><br>What I worked on<br>+ enhanced art projects with Machine Learning, in music and visuals.<br>+ oversaw software side of artist’s projects (requirements gathering, research, implementation, debugging)<br>+ built novelty musical instrument to be used in art performances
+
 
 
 - title: Teaching Assistant, University of Copenhagen
   from: 2018, September
   to: 2019, January
-  description: Taught 50 students in "Scientific Programming” master’s level course, an introduction to programming in Python, with a focus on data science and machine learning. Guided exercise sessions and graded student assignments. Learned that “you do not really understand something unless you can explain it to first semester ML students.”
+  description: '<p style="line-height:2rem;" id="ember1574" class="pv-entity__description t-14 t-black t-normal inline-show-more-text ember-view">+ Teaching Assistant for "Scientific Programming” master’s level course, an introduction to programming in Python, with a focus on data science and machine learning.<br>+ Guided exercise sessions for students<br>+ Offered guidance and explanations of concepts<br>+ Graded student assignments.<br>+ Learned that “you do not really understand something unless you can explain it to first semester ML students.”<br><br>Course description:  https://kurser.ku.dk/course/HIOK0002EU'
 
 
 
 - title: Software Developer, Deltek, Denmark
   from: 2014
   to: 2018
-  description: Developed new features and functionality across our modern web client, frontend (Angular, Typescript) and backend (Java). Maintained and configured servers (Linux, Windows, RHEL, Solaris). Debugged errors related to installation and configuration, in close collaboration with developers. Re-wrote the build and deployment tools for the Continuous Integration system, using Python and Jenkins, achieving a more streamlined process. Created an automation framework for an existing manual process, in Python.
-
+  description: What I worked with<br>+ Python<br>+ Angular<br>+ TypeScript<br>+ Jenkins<br>+ Linux<br>+ Windows Server<br><br>What I worked on<br>+ enhanced the build and deployment tools for the Continuous Integration system, using Python and Jenkins.<br>+ developed new features and functionality across our modern web client, frontend (Angular, Typescript) and backend (Java)<br>+ maintenance and configuration of servers (Linux, Windows, RHEL, Solaris).<br>+ debugged errors related to installation and configuration, in close collaboration with developers.<br>+ automated testing flow for developers, with framework for GUI tests

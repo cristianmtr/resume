@@ -1,11 +1,13 @@
 - title: M. Sc. IT & Cognition, University of Copenhagen
   from: 2017
   to: 2019
-  description: Obtained a wide range of knowledge across multiple topics in ML (Data Science, Cognitive Science, NLP, Computer Vision). Developed multiple projects, in groups and individually. Implemented learning algorithms using only linear algebra libraries (Numpy). Mastered theoretical foundations in Machine Learning. Delivered master thesis in symbolic music generation using recurrent networks.
-
+  description: '<p class="pv-entity__description t-14 t-normal mt4">
+  + Obtained a wide range of knowledge across multiple topics related to ML: Data Science, Cognitive Science, NLP, Computer Vision.<br>+ Developed multiple non-trivial ML, DS, DL projects, in groups and individually.<br>+ Implemented ML algorithms from scratch, using only linear algebra libraries (Numpy).<br>+ Mastered theoretical foundations in Machine Learning.<br>+ Delivered master thesis in symbolic music generation using recurrent networks (top grade)
+</p>'
 
 - title: B. Sc. Web Development & IT Engineering, KEA, Denmark
   from: 2014
   to: 2017
-  description: Acquired knowledge and practical skills in a wide range of topics related to Web Development and IT (Networking, Backend development, Security, and Relational Databases). Developed projects using many tools and languages (Python, C#, PHP, Javascript, Go, SQL, thus being able to learn and get acquainted fairly easily to any new languages or tools).
-
+  description: '<p class="pv-entity__description t-14 t-normal mt4">
+  + Acquired knowledge and practical skills in a wide range of topics related to Web Development and IT: Networking, Backend development, Security, and Relational Databases.<br>+ Developed projects using many tools and languages: Python, C#, PHP, Javascript, Go, SQL. This has made me able to learn and get acquainted fairly easily to any new languages or tools.<br>
+</p>'

@@ -2,7 +2,7 @@
   percentage: 90
   color: dark
 
-- name: TypeScript
+- name: SQL
   percentage: 70
   color: info
 
@@ -10,7 +10,7 @@
   percentage: 60
   color: blue
 
-- name: SQL
+- name: TypeScript
   percentage: 40
   color: success
 

@@ -6,7 +6,7 @@
   percentage: 70
   color: success
 
-- name: SysAdmin
+- name: DevOps
   percentage: 60
   color: info
 
