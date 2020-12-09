@@ -1,6 +1,12 @@
+- title: AI Engineer, Jina AI
+  from: 2020, Novemeber
+  to: present
+  description: Jina AI is a Neural Search Company. It provides the cloud-native neural search solution powered by AI and deep learning. 
+
+
 - title: Machine Learning Engineer, Alpaca GmbH
   from: 2019, August
-  to: present
+  to: 2020, October
   description: What I work with<br>+ Python<br>+ Rasa<br>+ NLP<br>+ PostgreSQL<br>+ Machine Learning<br>+ Docker<br>+ ElasticBeanstalk<br><br>What I work on<br>+ Automated qualification process of prospective renters, using a conversational AI agent;<br>+ Quantified business achievements, by extracting and analyzing data from chatbot conversations with users;<br>+ Optimized chatbot understanding of human text, by analyzing and annotating dataset of conversations;<br>+ Implementation of business logic in backend;<br>+ Improved collaboration processes for technology team, to enhance cross-team knowledge sharing;<br>+ Scaling of business infrastructure with AWS Elastic Beanstalk and Docker;
 
 
