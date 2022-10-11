@@ -1,13 +1,17 @@
-- title: AI Engineer, Jina AI
-  from: 2020, Novemeber
+- title: Sr. Machine Learning Engineer, Solsten
+  from: 2022, June
   to: present
-  description: Jina AI is a Neural Search Company. It provides the cloud-native neural search solution powered by AI and deep learning. 
+  description: It’s the ultimate in audience understanding, put into action. Drawing on a deep understanding of human psychology, amplified by AI, we change the game for companies who want to resonate fully with peopleIt’s the ultimate in audience understanding, put into action. Drawing on a deep understanding of human psychology, amplified by AI, we change the game for companies who want to resonate fully with people
 
+- title: Sr. AI Engineer, Jina AI
+  from: 2020, Novemeber
+  to: 2022, May
+  description: What I worked with:<br>+ Python<br>+ Approximate nearest neighbor algorithms (FAISS, HNSW)<br>+ Data Science (numpy, pandas)<br>+ Machine Learning (PyTorch, sklearn, TF)<br>+ PostgreSQL<br>+ Docker, AWS<br>What I worked on:<br>+ Scaling and design of vector-based storage systems for neural search tasks<br>+ Research, comparison, and benchmarking of neural search / ANN algorithms<br>+ Implementing real-life neural search systems for business partners<br>+ Automated deployment of modular subsystems on our open marketplace, Jina Hub<br>+ Guiding and maintaining best practices across array of neural search modules<br>+ Interacting and teaching community, via open source channels and workshops
 
 - title: Machine Learning Engineer, Alpaca GmbH
   from: 2019, August
   to: 2020, October
-  description: What I work with<br>+ Python<br>+ Rasa<br>+ NLP<br>+ PostgreSQL<br>+ Machine Learning<br>+ Docker<br>+ ElasticBeanstalk<br><br>What I work on<br>+ Automated qualification process of prospective renters, using a conversational AI agent;<br>+ Quantified business achievements, by extracting and analyzing data from chatbot conversations with users;<br>+ Optimized chatbot understanding of human text, by analyzing and annotating dataset of conversations;<br>+ Implementation of business logic in backend;<br>+ Improved collaboration processes for technology team, to enhance cross-team knowledge sharing;<br>+ Scaling of business infrastructure with AWS Elastic Beanstalk and Docker;
+  description: What I worked with<br>+ Python<br>+ Rasa<br>+ NLP<br>+ PostgreSQL<br>+ Machine Learning<br>+ Docker<br>+ ElasticBeanstalk<br><br>What I work on<br>+ Automated qualification process of prospective renters, using a conversational AI agent;<br>+ Quantified business achievements, by extracting and analyzing data from chatbot conversations with users;<br>+ Optimized chatbot understanding of human text, by analyzing and annotating dataset of conversations;<br>+ Implementation of business logic in backend;<br>+ Improved collaboration processes for technology team, to enhance cross-team knowledge sharing;<br>+ Scaling of business infrastructure with AWS Elastic Beanstalk and Docker;
 
 
 - title: Collaborator (Machine Learning Engineer), La Kriss Kross
